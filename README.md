@@ -3,7 +3,7 @@
 
 Hi, I am Duško.
 
-![Hi](https://github.com/Duskorsl/10-AL_TECH-project/assets/105879280/8a8d79b4-b9ca-4f4a-a5e4-ad47a1240e69)
+![Hi](https://github.com/Duskorsl/Front-end-development/assets/105879280/c6ce2714-e75c-48d1-a0f0-2792f5bfbfdc)
 
 
 Front-end developer and high school teacher.
